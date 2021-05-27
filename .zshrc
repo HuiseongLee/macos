@@ -2,9 +2,9 @@
 
 PS1="%n %~$ "
 
-export PATH="~/bin:/usr/local/bin:/usr/bin:/bin/usr/sbin:/sbin:$PATH"
+PATH="~/bin:$PATH"
 
-export EDITOR=vim
+EDITOR=vim
 
 # File search functions
 function f() { find . -iname "*$1*" ${@:2} }
