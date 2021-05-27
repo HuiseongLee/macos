@@ -1,1 +1,3 @@
 find . \! -type l -a \( -name "*.c" -o -name "*.cpp" -o -name "*.h" -o -name "*.java" -o -name "*.py" \) > cscope.files
+cscope -Rb
+ctags -R -L cscope.files
