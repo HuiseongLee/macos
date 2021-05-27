@@ -16,3 +16,4 @@ function mkcd() { mkdir -p "$@" && cd "$_"; }
 alias cppcompile='c++ -std=c++11 -stdlib=libc++'
 alias g='git'
 alias gg='exit'
+alias cs='cscope'
