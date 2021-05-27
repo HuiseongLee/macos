@@ -2,7 +2,7 @@
 
 PS1="%n %~$ "
 
-PATH="~/bin:$PATH"
+PATH="$HOME/bin:$PATH"
 
 EDITOR=vim
 
