@@ -13,3 +13,20 @@ Movies/
 Music/
 Pictures/
 Public/
+prj/
+study/
+.config/
+.docker/
+.lesshst
+.local/
+.netrc
+.node-gyp/
+.npm/
+.python_history
+.ssh/
+.vagrant.d/
+.vim/.netrwhist
+.vscode/
+.yarnrc
+.zsh_sessions/
+VirtualBox VMs/

@@ -2,3 +2,12 @@
 [user]
 	name = HuiSeong Lee
 	email = huiseong.lee@vuno.co
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	unstags = reset HEAD --
+	last = log -1 HEAD
+	l = log --oneline
+	visual = !gitk
