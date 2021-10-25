@@ -13,6 +13,7 @@ colorscheme torte2
 set viminfo='20,\"50,:20
 
 set nu " display line number
+set ruler
 set visualbell
 
 syntax on "syntax highlighting

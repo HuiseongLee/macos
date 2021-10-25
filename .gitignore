@@ -30,3 +30,10 @@ study/
 .yarnrc
 .zsh_sessions/
 VirtualBox VMs/
+.cookiecutter_replay/
+.cookiecutters/
+.cups/
+.eclipse/
+.poetry/
+OneDrive - VUNO Inc/
+.Trash/

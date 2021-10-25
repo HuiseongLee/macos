@@ -27,3 +27,5 @@ alias h=history
 
 export CLICOLOR=1
 export LSCOLORS=ExFxCxDxBxegedabagacad
+
+export PATH="$HOME/.poetry/bin:$PATH"
